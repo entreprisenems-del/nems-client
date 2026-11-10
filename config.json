@@ -18,7 +18,7 @@
         "network": "ws",
         "security": "none",
         "wsSettings": {
-          "path": "/nems-client237",
+          "path": "/nems-client",
           "heartbeatPeriod": 20
         }
       }
